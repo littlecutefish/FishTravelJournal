@@ -1,0 +1,69 @@
+section h1 {
+    text-align: center;
+}
+
+section .subtitle {
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section .subtitle-flex {
+    display: flex;
+}
+
+section h2 {
+    font-size: large;
+    color: rgb(67, 44, 29);
+    padding-bottom: 10px;
+}
+
+section h3 {
+    padding: 5px;
+    font-size: small;
+    font-weight: 400;
+}
+
+section h5 {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+section .update{
+    color: gray;
+    letter-spacing: 2px;
+}
+
+.update-box {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+}
+
+section p {
+    font-size: small;
+    color: rgb(135, 81, 36);
+}
+
+section img {
+    height: 500px;
+    padding-right: 5%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+section .img-box {
+    display: flex;
+    word-spacing: 30px;
+    justify-content: center; 
+}
+
+section .journal-content {
+    padding: 30px;
+}
